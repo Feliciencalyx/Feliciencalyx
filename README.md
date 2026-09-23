@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Felicien%20Muhire&fontSize=42&fontColor=38bdf8&animation=fadeIn&subtext=Full-Stack%20%7C%20Mobile%20Developer%20%7C%20Tech%20%26%20Linux%20Enthusiast&subfontSize=18&subfontColor=cbd5e1" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Felicien%20Nshimyumukiza&fontSize=38&fontColor=38bdf8&animation=fadeIn&subtext=Full-Stack%20%7C%20Mobile%20Developer%20%7C%20Tech%20%26%20Linux%20Enthusiast&subfontSize=18&subfontColor=cbd5e1" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Feliciencalyx">
